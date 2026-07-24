@@ -1,8 +1,9 @@
 {
   "name": "icompanion",
-  "version": "0.9.0",
+  "version": "0.10.0",
   "private": true,
-  "description": "相片怪獸工房 — photo-to-pixel companion monster workshop MVP",
+  "type": "module",
+  "description": "icompanion — thumb-friendly pixel companion raising + online battle",
   "scripts": {
     "start": "npx --yes serve -l 5173 .",
     "dev": "npx --yes serve -l 5173 ."

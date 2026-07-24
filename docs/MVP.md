@@ -1,5 +1,8 @@
 # MVP definition — 相片怪獸工房 v9
 
+> **Note (v10):** 產品主線已轉為手機優先「育成 + 創作 + 對戰」。見 [PRODUCT.md](./PRODUCT.md)。  
+> 下文保留 v9 工房原型定義，作為像素引擎與創作原則的技術起點。
+
 ## One-liner
 
 A local, single-page workshop where a photo (or template) becomes a **hand-editable 64×64 pixel companion** that lives in a room, reacts to care actions, and can take reversible “evolution” pixel suggestions.
