@@ -1,0 +1,14 @@
+{
+  "name": "icompanion",
+  "version": "0.10.0",
+  "private": true,
+  "type": "module",
+  "description": "icompanion — thumb-friendly pixel companion raising + online battle",
+  "scripts": {
+    "start": "npx --yes serve -l 5173 .",
+    "dev": "npx --yes serve -l 5173 ."
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
