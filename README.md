@@ -5,7 +5,15 @@
 
 Current build: **v10 mobile raise / battle slice**
 
-## Quick start
+## 線上遊玩
+
+**https://wontfixit-game.github.io/icompanion/**
+
+- 建議用手機或瀏覽器手機模式（寬度約 390px）
+- 快速試育成：https://wontfixit-game.github.io/icompanion/#demo
+- 存檔在瀏覽器本機，換裝置要重新出巢
+
+## 本機開發
 
 ```bash
 npm start
